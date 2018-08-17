@@ -1,0 +1,36 @@
+D:\Ucheba\C#\Calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Ucheba\C#\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Ucheba\C#\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Ucheba\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Ucheba\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Ucheba\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Ucheba\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Ucheba\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Ucheba\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Ucheba\Calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Ucheba\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Ucheba\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Ucheba\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Ucheba\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Ucheba\Calc\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Ucheba\Calc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Ucheba\Calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Ucheba\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Documents\Ucheba\Новая папка\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
